@@ -1,0 +1,3 @@
+This dataset consists of a fully reproducible Jupyter notebook (WFGB d15N Story.ipynb) that documents the processing, analysis, and visualization of annually resolved coral-bound nitrogen isotope (CB-δ¹⁵N) records from West Flower Garden Bank (W-FGB) in the northern Gulf of Mexico.
+
+The notebook reconstructs long-term changes in marine nitrogen sources and cycling over the period 1753–2023, with a particular focus on the emergence, intensification, and legacy effects of Mississippi River–derived anthropogenic nitrogen inputs. The record spans pre-industrial conditions, early agricultural expansion, the Green Revolution, and the modern era of intensified nutrient loading.
